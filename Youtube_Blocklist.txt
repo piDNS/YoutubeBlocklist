@@ -1,146 +1,70 @@
- r1---sn-4g5e6ney.googlevideo.com
- r1---sn-4g5e6nez.googlevideo.com
- r1---sn-4g5e6nl7.googlevideo.com
- r1---sn-4g5e6nle.googlevideo.com
- r1---sn-4g5e6nsr.googlevideo.com
- r1---sn-4g5e6nz7.googlevideo.com
- r1---sn-4g5e6nze.googlevideo.com
- r1---sn-4g5e6nzl.googlevideo.com
- r1---sn-4g5edne7.googlevideo.com
- r1---sn-4g5ednek.googlevideo.com
- r1---sn-4g5ednsk.googlevideo.com
- r1---sn-4g5ednz7.googlevideo.com
- r1---sn-i5h7lned.googlevideo.com
- r1---sn-i5h7lner.googlevideo.com
- r1---sn-i5heen7l.googlevideo.com
- r1---sn-i5heen7s.googlevideo.com
- r1---sn-i5heen7z.googlevideo.com
- r2---sn-4g5e6ney.googlevideo.com
- r2---sn-4g5e6ns6.googlevideo.com
- r2---sn-4g5e6nsr.googlevideo.com
- r2---sn-4g5e6nsz.googlevideo.com
- r2---sn-4g5edne7.googlevideo.com
- r2---sn-4g5ednle.googlevideo.com
- r2---sn-4g5ednll.googlevideo.com
- r2---sn-4g5ednly.googlevideo.com
- r2---sn-4g5ednsk.googlevideo.com
- r2---sn-4g5ednsr.googlevideo.com
- r2---sn-i5h7lned.googlevideo.com
- r2---sn-i5h7lner.googlevideo.com
- r2---sn-i5heen7l.googlevideo.com
- r2---sn-i5heen7s.googlevideo.com
- r2---sn-i5heen7z.googlevideo.com
- r2---sn-p5qlsndd.googlevideo.com
- r3---sn-4g5e6nsd.googlevideo.com
- r3---sn-4g5e6nsr.googlevideo.com
- r3---sn-4g5e6nsz.googlevideo.com
- r3---sn-4g5e6nzz.googlevideo.com
- r3---sn-4g5edns7.googlevideo.com
- r3---sn-4g5ednsl.googlevideo.com
- r3---sn-4g5ednsy.googlevideo.com
- r3---sn-h0jeenek.googlevideo.com
- r3---sn-i5h7lned.googlevideo.com
- r3---sn-i5h7lner.googlevideo.com
- r3---sn-i5heen7l.googlevideo.com
- r3---sn-i5heen7s.googlevideo.com
- r3---sn-i5heen7z.googlevideo.com
- r4---sn-4g5e6ne6.googlevideo.com
- r4---sn-4g5e6nsd.googlevideo.com
- r4---sn-4g5e6nz7.googlevideo.com
- r4---sn-4g5e6nzz.googlevideo.com
- r4---sn-4g5ednek.googlevideo.com
- r4---sn-4g5ednle.googlevideo.com
- r4---sn-4g5ednll.googlevideo.com
- r4---sn-4g5ednsk.googlevideo.com
- r4---sn-i5h7lned.googlevideo.com
- r4---sn-i5h7lner.googlevideo.com
- r4---sn-i5heen7s.googlevideo.com
- r4---sn-i5heen7z.googlevideo.com
- r4---sn-p5qlsndr.googlevideo.com
- r5---sn-4g5e6nsr.googlevideo.com
- r5---sn-4g5e6nss.googlevideo.com
- r5---sn-4g5e6nz7.googlevideo.com
- r5---sn-4g5e6nze.googlevideo.com
- r5---sn-4g5edn7y.googlevideo.com
- r5---sn-4g5edney.googlevideo.com
- r5---sn-4g5edns6.googlevideo.com
- r5---sn-4g5ednsy.googlevideo.com
- r5---sn-a5mlrn7y.googlevideo.com
- r5---sn-i5h7lned.googlevideo.com
- r5---sn-i5h7lner.googlevideo.com
- r5---sn-i5heen7l.googlevideo.com
- r5---sn-i5heen7s.googlevideo.com
- r6---sn-i5heen7l.googlevideo.com
- r6---sn-q4fl6nl7.googlevideo.com
-
- 173.194.187.102
- 173.194.187.166
- 173.194.187.198
- 74.125.11.102
- 74.125.11.7
- 173.194.164.183
- 173.194.188.230
- 74.125.173.230
- 173.194.165.135
- 74.125.110.6
- 74.125.11.87
- 74.125.110.38
- 74.125.13.70
- 173.194.164.104
- 173.194.187.7
- 173.194.187.103
- 173.194.182.231
- 74.125.11.8
- 74.125.104.88
- 74.125.173.56
- 173.194.187.231
- 173.194.188.231
- 74.125.110.103
- 173.194.165.136
- 74.125.110.7
- 74.125.11.88
- 74.125.110.39
- 74.125.13.71
- 173.194.184.231
- 173.194.187.40
- 173.194.187.104
- 173.194.182.232
- 74.125.173.200
- 173.194.188.8
- 173.194.188.72
- 74.125.173.136
- 172.217.130.40
- 173.194.165.137
- 74.125.110.8
- 74.125.11.89
- 74.125.110.40
- 74.125.13.72
- 173.194.151.106
- 173.194.187.41
- 173.194.187.169
- 74.125.173.201
- 173.194.164.186
- 74.125.104.90
- 74.125.173.58
- 173.194.188.233
- 173.194.165.138
- 74.125.110.9
- 74.125.110.41
- 74.125.13.73
- 172.217.135.41
- 173.194.187.106
- 173.194.182.202
- 173.194.187.170
- 173.194.187.202
- 173.194.151.123
- 173.194.165.171
- 173.194.188.170
- 74.125.173.138
- 173.194.166.171
- 173.194.165.139
- 74.125.110.10
- 74.125.11.91
- 74.125.110.42
- 74.125.11.92
- 74.125.1.140
-
+ 173.194.187.102      r1---sn-4g5e6ney.googlevideo.com
+ 173.194.187.166      r1---sn-4g5e6nez.googlevideo.com
+ 173.194.187.198      r1---sn-4g5e6nl7.googlevideo.com
+ 74.125.11.102      r1---sn-4g5e6nle.googlevideo.com
+ 74.125.11.7      r1---sn-4g5e6nsr.googlevideo.com
+ 173.194.164.183      r1---sn-4g5e6nz7.googlevideo.com
+ 173.194.188.230      r1---sn-4g5e6nze.googlevideo.com
+ 74.125.173.230      r1---sn-4g5e6nzl.googlevideo.com
+ 173.194.165.135      r1---sn-4g5edne7.googlevideo.com
+ 74.125.110.6      r1---sn-4g5ednek.googlevideo.com
+ 74.125.11.87      r1---sn-4g5ednsk.googlevideo.com
+ 74.125.110.38      r1---sn-4g5ednz7.googlevideo.com
+ 74.125.13.70      r1---sn-i5h7lned.googlevideo.com
+ 173.194.164.104      r1---sn-i5h7lner.googlevideo.com
+ 173.194.187.7      r1---sn-i5heen7l.googlevideo.com
+ 173.194.187.103      r1---sn-i5heen7s.googlevideo.com
+ 173.194.182.231      r1---sn-i5heen7z.googlevideo.com
+ 74.125.11.8      r2---sn-4g5e6ney.googlevideo.com
+ 74.125.104.88      r2---sn-4g5e6ns6.googlevideo.com
+ 74.125.173.56      r2---sn-4g5e6nsr.googlevideo.com
+ 173.194.187.231      r2---sn-4g5e6nsz.googlevideo.com
+ 173.194.188.231      r2---sn-4g5edne7.googlevideo.com
+ 74.125.110.103      r2---sn-4g5ednle.googlevideo.com
+ 173.194.165.136      r2---sn-4g5ednll.googlevideo.com
+ 74.125.110.7      r2---sn-4g5ednly.googlevideo.com
+ 74.125.11.88      r2---sn-4g5ednsk.googlevideo.com
+ 74.125.110.39      r2---sn-4g5ednsr.googlevideo.com
+ 74.125.13.71      r2---sn-i5h7lned.googlevideo.com
+ 173.194.184.231      r2---sn-i5h7lner.googlevideo.com
+ 173.194.187.40      r2---sn-i5heen7l.googlevideo.com
+ 173.194.187.104      r2---sn-i5heen7s.googlevideo.com
+ 173.194.182.232      r2---sn-i5heen7z.googlevideo.com
+ 74.125.173.200      r2---sn-p5qlsndd.googlevideo.com
+ 173.194.188.8      r3---sn-4g5e6nsd.googlevideo.com
+ 173.194.188.72      r3---sn-4g5e6nsr.googlevideo.com
+ 74.125.173.136      r3---sn-4g5e6nsz.googlevideo.com
+ 172.217.130.40      r3---sn-4g5e6nzz.googlevideo.com
+ 173.194.165.137      r3---sn-4g5edns7.googlevideo.com
+ 74.125.110.8      r3---sn-4g5ednsl.googlevideo.com
+ 74.125.11.89      r3---sn-4g5ednsy.googlevideo.com
+ 74.125.110.40      r3---sn-h0jeenek.googlevideo.com
+ 74.125.13.72      r3---sn-i5h7lned.googlevideo.com
+ 173.194.151.106      r3---sn-i5h7lner.googlevideo.com
+ 173.194.187.41      r3---sn-i5heen7l.googlevideo.com
+ 173.194.187.169      r3---sn-i5heen7s.googlevideo.com
+ 74.125.173.201      r3---sn-i5heen7z.googlevideo.com
+ 173.194.164.186      r4---sn-4g5e6ne6.googlevideo.com
+ 74.125.104.90      r4---sn-4g5e6nsd.googlevideo.com
+ 74.125.173.58      r4---sn-4g5e6nz7.googlevideo.com
+ 173.194.188.233      r4---sn-4g5e6nzz.googlevideo.com
+ 173.194.165.138      r4---sn-4g5ednek.googlevideo.com
+ 74.125.110.9      r4---sn-4g5ednle.googlevideo.com
+ 74.125.110.41      r4---sn-4g5ednll.googlevideo.com
+ 74.125.13.73      r4---sn-4g5ednsk.googlevideo.com
+ 172.217.135.41      r4---sn-i5h7lned.googlevideo.com
+ 173.194.187.106      r4---sn-i5h7lner.googlevideo.com
+ 173.194.182.202      r4---sn-i5heen7s.googlevideo.com
+ 173.194.187.170      r4---sn-i5heen7z.googlevideo.com
+ 173.194.187.202      r4---sn-p5qlsndr.googlevideo.com
+ 173.194.151.123      r5---sn-4g5e6nsr.googlevideo.com
+ 173.194.165.171      r5---sn-4g5e6nss.googlevideo.com
+ 173.194.188.170      r5---sn-4g5e6nz7.googlevideo.com
+ 74.125.173.138      r5---sn-4g5e6nze.googlevideo.com
+ 173.194.166.171      r5---sn-4g5edn7y.googlevideo.com
+ 173.194.165.139      r5---sn-4g5edney.googlevideo.com
+ 74.125.110.10      r5---sn-4g5edns6.googlevideo.com
+ 74.125.11.91      r5---sn-4g5ednsy.googlevideo.com
+ 74.125.110.42      r5---sn-a5mlrn7y.googlevideo.com
+ 74.125.11.92      r5---sn-i5h7lned.googlevideo.com
+ 74.125.1.140      r5---sn-i5h7lner.googlevideo.com
