@@ -1,0 +1,9 @@
+#Youtube Werbung Blocklist 
+#
+r1---sn-4g5e6ne6.googlevideo.com
+
+
+
+
+
+
